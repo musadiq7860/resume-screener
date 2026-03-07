@@ -1,4 +1,4 @@
-readme = """# 🧠 AI Resume Screener
+# 🧠 AI Resume Screener
 
 A fine-tuned DistilBERT model that classifies resumes into 43 job categories with **88% accuracy**.
 
