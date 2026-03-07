@@ -47,10 +47,4 @@ Aviation, SAP Developer, HR, Marketing, Accountant, and 33 more...
 **Muhammad Mussadiq** — [GitHub](https://github.com/Musadiq7860) · [HuggingFace](https://huggingface.co/Musadiq7860)
 """
 
-with open("README.md", "w") as f:
-    f.write(readme)
 
-os.system("git add README.md")
-os.system('git commit -m "Add README"')
-os.system("git push")
-print("✅ README pushed")
