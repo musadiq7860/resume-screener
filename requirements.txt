@@ -1,0 +1,5 @@
+transformers==4.47.0
+torch
+gradio
+huggingface_hub
+scikit-learn
