@@ -12,7 +12,7 @@ A fine-tuned DistilBERT model that classifies resumes into 43 job categories wit
 | Macro F1 | 0.87 |
 | Training Epochs | 3 |
 | Categories | 43 |
-
+ 
 **Best categories:** Civil Engineer (0.98), SAP Developer (0.98), Aviation (0.97)
 
 ## 🛠️ Tech Stack
