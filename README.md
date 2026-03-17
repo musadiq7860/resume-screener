@@ -8,7 +8,7 @@ A fine-tuned DistilBERT model that classifies resumes into 43 job categories wit
 ## 📊 Model Performance
 | Metric | Score |
 |--------|-------|
-| Test Accuracy | 88% |
+| Test Accuracy | 88% | 
 | Macro F1 | 0.87 |
 | Training Epochs | 3 |
 | Categories | 43 |
